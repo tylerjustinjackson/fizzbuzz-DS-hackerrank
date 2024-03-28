@@ -12,7 +12,7 @@ import sys
 # Complete the 'fizzBuzz' function below.
 #
 # The function accepts INTEGER n as parameter.
-def fizzBuzz(n) -> int:
+def fizzBuzz(n):
         
     #loop for n+1 to consider the nth case    
     for i in range(1, n+1):
